@@ -1,0 +1,8 @@
+click==8.1.7
+flake8==7.0.0
+hachoir==3.3.0
+ipython==8.18.1
+moviepy==1.0.3
+pillow==10.2.0
+pydantic==2.6.0
+simple-file-checksum==1.2.2
